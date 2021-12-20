@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./DesignSystem1.png)
 
 
 ### Links
@@ -55,4 +55,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-Thanks to Kevin Powel and his discord community for insparation to do this challenge!
+Thanks to Kevin Powell and his discord community for insparation to do this challenge!
